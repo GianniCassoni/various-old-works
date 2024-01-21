@@ -260,7 +260,7 @@ class Species:
 
 """Universal_Data"""
 
-diags_dir='c:/Users/Gianni/Desktop/PIC/1DPIC_Laser/Data'
+diags_dir='./Data'
 
 # UNIVERSAL CONSTANTS 
 q_e = 4.80320425e-10 # statC
